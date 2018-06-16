@@ -1,5 +1,5 @@
 # NewsMood
-For this project, you'll create a Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and to present your findings visually.
+For this project, a Python script was used to perform a sentiment analysis of the Twitter activity of various news oulets.
 
 
 # Rationale
